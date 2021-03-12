@@ -34,7 +34,7 @@ Redis is automatically installed in self-hosted environments by the Dapr CLI as 
 {{% /codetab %}}
 
 {{% codetab %}}
-You can use [Helm](https://helm.sh/) to quickly create a Redis instance in our Kubernetes cluster. This approach requires [Installing Helm v3](https://github.com/helm/helm#install).
+You can use [Helm](https://helm.sh/) to quickly create a Redis instance in your Kubernetes cluster. This approach requires [Installing Helm v3](https://github.com/helm/helm#install).
 
 1. Install Redis into your cluster:
 
